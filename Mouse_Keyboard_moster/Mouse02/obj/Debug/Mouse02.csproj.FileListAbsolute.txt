@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2013\Projects\Mouse02\Mouse02\bin\Debug\Mouse02.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Mouse02\Mouse02\bin\Debug\Mouse02.exe
+c:\users\user\documents\visual studio 2013\Projects\Mouse02\Mouse02\bin\Debug\Mouse02.pdb
+c:\users\user\documents\visual studio 2013\Projects\Mouse02\Mouse02\bin\Debug\MouseKeyboardActivityMonitor.xml
+c:\users\user\documents\visual studio 2013\Projects\Mouse02\Mouse02\obj\Debug\Mouse02.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Mouse02\Mouse02\obj\Debug\Mouse02.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\Mouse02\Mouse02\obj\Debug\Mouse02.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\Mouse02\Mouse02\obj\Debug\Mouse02.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\Mouse02\Mouse02\obj\Debug\Mouse02.exe
+c:\users\user\documents\visual studio 2013\Projects\Mouse02\Mouse02\obj\Debug\Mouse02.pdb
+c:\users\user\documents\visual studio 2013\Projects\Mouse02\Mouse02\bin\Debug\InputSimulator.pdb
+c:\users\user\documents\visual studio 2013\Projects\Mouse02\Mouse02\bin\Debug\InputSimulator.xml

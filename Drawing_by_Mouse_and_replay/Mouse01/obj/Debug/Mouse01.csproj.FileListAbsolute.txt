@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\Mouse01\Mouse01\bin\Debug\Mouse01.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Mouse01\Mouse01\bin\Debug\Mouse01.exe
+c:\users\user\documents\visual studio 2013\Projects\Mouse01\Mouse01\bin\Debug\Mouse01.pdb
+c:\users\user\documents\visual studio 2013\Projects\Mouse01\Mouse01\obj\Debug\Mouse01.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Mouse01\Mouse01\obj\Debug\Mouse01.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\Mouse01\Mouse01\obj\Debug\Mouse01.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\Mouse01\Mouse01\obj\Debug\Mouse01.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\Mouse01\Mouse01\obj\Debug\Mouse01.exe
+c:\users\user\documents\visual studio 2013\Projects\Mouse01\Mouse01\obj\Debug\Mouse01.pdb

@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\Caculator\Caculator\bin\Debug\Caculator.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Caculator\Caculator\bin\Debug\Caculator.exe
+c:\users\user\documents\visual studio 2013\Projects\Caculator\Caculator\bin\Debug\Caculator.pdb
+c:\users\user\documents\visual studio 2013\Projects\Caculator\Caculator\obj\Debug\Caculator.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Caculator\Caculator\obj\Debug\Caculator.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\Caculator\Caculator\obj\Debug\Caculator.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\Caculator\Caculator\obj\Debug\Caculator.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\Caculator\Caculator\obj\Debug\Caculator.exe
+c:\users\user\documents\visual studio 2013\Projects\Caculator\Caculator\obj\Debug\Caculator.pdb

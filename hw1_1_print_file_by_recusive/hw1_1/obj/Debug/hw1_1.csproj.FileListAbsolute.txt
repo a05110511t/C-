@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\hw1_1\hw1_1\bin\Debug\hw1_1.exe.config
+c:\users\user\documents\visual studio 2013\Projects\hw1_1\hw1_1\bin\Debug\hw1_1.exe
+c:\users\user\documents\visual studio 2013\Projects\hw1_1\hw1_1\bin\Debug\hw1_1.pdb
+c:\users\user\documents\visual studio 2013\Projects\hw1_1\hw1_1\obj\Debug\hw1_1.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\hw1_1\hw1_1\obj\Debug\hw1_1.exe
+c:\users\user\documents\visual studio 2013\Projects\hw1_1\hw1_1\obj\Debug\hw1_1.pdb

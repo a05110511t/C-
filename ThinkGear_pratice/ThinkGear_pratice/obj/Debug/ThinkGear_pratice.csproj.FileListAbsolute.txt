@@ -1,0 +1,13 @@
+c:\users\user\documents\visual studio 2013\Projects\ThinkGear_pratice\ThinkGear_pratice\bin\Debug\ThinkGear_pratice.exe.config
+c:\users\user\documents\visual studio 2013\Projects\ThinkGear_pratice\ThinkGear_pratice\obj\Debug\ThinkGear_pratice.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\ThinkGear_pratice\ThinkGear_pratice\obj\Debug\ThinkGear_pratice.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\ThinkGear_pratice\ThinkGear_pratice\obj\Debug\ThinkGear_pratice.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\ThinkGear_pratice\ThinkGear_pratice\obj\Debug\ThinkGear_pratice.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\ThinkGear_pratice\ThinkGear_pratice\bin\Debug\ThinkGear_pratice.exe
+c:\users\user\documents\visual studio 2013\Projects\ThinkGear_pratice\ThinkGear_pratice\bin\Debug\ThinkGear_pratice.pdb
+c:\users\user\documents\visual studio 2013\Projects\ThinkGear_pratice\ThinkGear_pratice\bin\Debug\ThinkGear.dll
+c:\users\user\documents\visual studio 2013\Projects\ThinkGear_pratice\ThinkGear_pratice\bin\Debug\NLog.dll
+c:\users\user\documents\visual studio 2013\Projects\ThinkGear_pratice\ThinkGear_pratice\bin\Debug\Jayrock.Json.dll
+c:\users\user\documents\visual studio 2013\Projects\ThinkGear_pratice\ThinkGear_pratice\obj\Debug\ThinkGear_pratice.exe
+c:\users\user\documents\visual studio 2013\Projects\ThinkGear_pratice\ThinkGear_pratice\obj\Debug\ThinkGear_pratice.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\ThinkGear_pratice\ThinkGear_pratice\obj\Debug\ThinkGear_pratice.EEGWave.resources

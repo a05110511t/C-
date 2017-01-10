@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2013\Projects\little_white_ball\little_white_ball\bin\Debug\little_white_ball.exe.config
+c:\users\user\documents\visual studio 2013\Projects\little_white_ball\little_white_ball\obj\Debug\little_white_ball.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\little_white_ball\little_white_ball\obj\Debug\little_white_ball.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\little_white_ball\little_white_ball\obj\Debug\little_white_ball.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\little_white_ball\little_white_ball\bin\Debug\little_white_ball.exe
+c:\users\user\documents\visual studio 2013\Projects\little_white_ball\little_white_ball\bin\Debug\little_white_ball.pdb
+c:\users\user\documents\visual studio 2013\Projects\little_white_ball\little_white_ball\obj\Debug\little_white_ball.exe
+c:\users\user\documents\visual studio 2013\Projects\little_white_ball\little_white_ball\obj\Debug\little_white_ball.pdb
+c:\users\user\documents\visual studio 2013\Projects\little_white_ball\little_white_ball\obj\Debug\little_white_ball.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\little_white_ball\little_white_ball\bin\Debug\Myball.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\little_white_ball\little_white_ball\bin\Debug\Myball.pdb

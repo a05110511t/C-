@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2013\Projects\Arknoid_pratice_2\Arknoid_pratice_2\bin\Debug\Arknoid_pratice_2.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Arknoid_pratice_2\Arknoid_pratice_2\bin\Debug\Arknoid_pratice_2.exe
+c:\users\user\documents\visual studio 2013\Projects\Arknoid_pratice_2\Arknoid_pratice_2\bin\Debug\Arknoid_pratice_2.pdb
+c:\users\user\documents\visual studio 2013\Projects\Arknoid_pratice_2\Arknoid_pratice_2\obj\Debug\Arknoid_pratice_2.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Arknoid_pratice_2\Arknoid_pratice_2\obj\Debug\Arknoid_pratice_2.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\Arknoid_pratice_2\Arknoid_pratice_2\obj\Debug\Arknoid_pratice_2.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\Arknoid_pratice_2\Arknoid_pratice_2\obj\Debug\Arknoid_pratice_2.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\Arknoid_pratice_2\Arknoid_pratice_2\obj\Debug\Arknoid_pratice_2.exe
+c:\users\user\documents\visual studio 2013\Projects\Arknoid_pratice_2\Arknoid_pratice_2\obj\Debug\Arknoid_pratice_2.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Arknoid_pratice_2\Arknoid_pratice_2\bin\Debug\ThinkGear.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\Arknoid_pratice_2\Arknoid_pratice_2\bin\Debug\NLog.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\Arknoid_pratice_2\Arknoid_pratice_2\bin\Debug\Jayrock.Json.dll

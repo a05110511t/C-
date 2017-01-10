@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\Threadpratice\Threadpratice\bin\Debug\Threadpratice.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Threadpratice\Threadpratice\bin\Debug\Threadpratice.exe
+c:\users\user\documents\visual studio 2013\Projects\Threadpratice\Threadpratice\bin\Debug\Threadpratice.pdb
+c:\users\user\documents\visual studio 2013\Projects\Threadpratice\Threadpratice\obj\Debug\Threadpratice.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Threadpratice\Threadpratice\obj\Debug\Threadpratice.exe
+c:\users\user\documents\visual studio 2013\Projects\Threadpratice\Threadpratice\obj\Debug\Threadpratice.pdb
